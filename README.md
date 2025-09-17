@@ -18,7 +18,7 @@ Analyzed Kaggle dataset (10K records) on pilgrim behaviors during Hajj/Umrah to 
 - `hajj_crowd_analysis.R`: Full pipeline (load, EDA, logistic, KNN).
 
 ## Report
-- [Full PDF]((https://drive.google.com/file/d/1pmTBS8s4wH9l8wZMmno5s7wWEZ9PfAcI/view?usp=drive_link))
+- (https://drive.google.com/file/d/1pmTBS8s4wH9l8wZMmno5s7wWEZ9PfAcI/view?usp=drive_link)
 
 ## Dataset
-[(https://www.kaggle.com/datasets/...—link if public](https://www.kaggle.com/datasets/ziya07/hajj-and-umrah-crowd-management-dataset)).
+- (https://www.kaggle.com/datasets/ziya07/hajj-and-umrah-crowd-management-dataset).

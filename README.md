@@ -5,7 +5,7 @@ Analyzed Kaggle dataset (10K records) on pilgrim behaviors during Hajj/Umrah to 
 
 ## Skills Demonstrated
 - EDA: Boxplots, bar/pie charts (ggplot2), contingency tables, descriptive stats (psych::describe).
-- Modeling: Binary logistic regression (stepwise selection, ROC/AUC=0.XX, optimal cutoff via Youden/cutpointr).
+- Modeling: Binary logistic regression (stepwise selection, ROC/AUC, optimal cutoff via Youden/cutpointr).
 - Classification: KNN (k=3 optimal via error loop, one-hot encoding, caret confusion matrices).
 - Evaluation: McFadden R², sensitivity/specificity trade-offs for imbalanced data.
 
